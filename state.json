@@ -999,14 +999,6 @@
       "fmt": "70MM ENERGIA",
       "when": "15/10 17:00"
      },
-     "131379": {
-      "fmt": "70MM ENERGIA",
-      "when": "15/10 21:00"
-     },
-     "131380": {
-      "fmt": "70MM ENERGIA",
-      "when": "16/10 17:00"
-     },
      "131381": {
       "fmt": "70MM ENERGIA",
       "when": "16/10 21:00"
@@ -1023,10 +1015,6 @@
       "fmt": "70MM ENERGIA",
       "when": "17/10 21:00"
      },
-     "131385": {
-      "fmt": "70MM ENERGIA",
-      "when": "18/10 09:00"
-     },
      "131386": {
       "fmt": "70MM ENERGIA",
       "when": "18/10 13:00"
@@ -1035,13 +1023,17 @@
       "fmt": "70MM ENERGIA",
       "when": "18/10 17:00"
      },
-     "131388": {
-      "fmt": "70MM ENERGIA",
-      "when": "18/10 21:00"
-     },
      "131389": {
       "fmt": "FILM IN INGLESE 70MM ENERGIA",
       "when": "20/10 21:00"
+     },
+     "131401": {
+      "fmt": "70MM ENERGIA",
+      "when": "19/10 21:00"
+     },
+     "131402": {
+      "fmt": "70MM ENERGIA",
+      "when": "21/10 21:00"
      }
     },
     "title": "ODISSEA [2026]",
