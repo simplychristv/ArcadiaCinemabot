@@ -190,10 +190,6 @@
    "digger-2026": {
     "poster": "https://www.arcadiacinema.com/cdn/movies/eec4df2672c82ce0bbacb6c95f549be5a8c53aebc5a4c8c160fe732c6c69776f972f2a1af4593b9f30b4cd5bee0c9fd3e6bae69eaa2ff31aeb9c98a537871b1c.jpg",
     "shows": {
-     "223129": {
-      "fmt": "2D",
-      "when": "12/10 20:50"
-     },
      "223130": {
       "fmt": "2D",
       "when": "13/10 17:30"
@@ -220,10 +216,6 @@
    "heart-of-the-beast-nel-profondo-selvaggio": {
     "poster": "https://www.arcadiacinema.com/cdn/movies/40f1fd35dfdd397f6f600f01d2dcda4941633ffac90fb7bacf0f81a1f3b70a349103842160b654b4af273baecd7518482540d32d2eecc526e8241017c2efb969.jpg",
     "shows": {
-     "223111": {
-      "fmt": "2D",
-      "when": "12/10 20:40"
-     },
      "223165": {
       "fmt": "2D",
       "when": "13/10 21:00"
@@ -235,10 +227,6 @@
    "lalbero-di-molto-lontano": {
     "poster": "https://img.cine-vu.it/locandineSchede/%5B446%5D48721.jpg",
     "shows": {
-     "223162": {
-      "fmt": "2D",
-      "when": "12/10 17:25"
-     },
      "223164": {
       "fmt": "2D",
       "when": "13/10 17:25"
@@ -254,14 +242,6 @@
    "lestranea": {
     "poster": "https://img.cine-vu.it/locandineSchede/%5B446%5D48593.jpg",
     "shows": {
-     "223146": {
-      "fmt": "2D",
-      "when": "12/10 17:20"
-     },
-     "223147": {
-      "fmt": "2D",
-      "when": "12/10 20:30"
-     },
      "223148": {
       "fmt": "2D",
       "when": "13/10 17:20"
@@ -285,14 +265,6 @@
    "mammina": {
     "poster": "https://img.cine-vu.it/locandineSchede/%5B446%5D48720.jpg",
     "shows": {
-     "223180": {
-      "fmt": "2D",
-      "when": "12/10 17:50"
-     },
-     "223181": {
-      "fmt": "2D",
-      "when": "12/10 21:20"
-     },
      "223182": {
       "fmt": "2D",
       "when": "13/10 17:50"
@@ -327,10 +299,6 @@
    "naza": {
     "poster": "https://www.arcadiacinema.com/cdn/movies/d3a32a04c4ab9961e173125abbc60a2196c1c327de16f4cf51880cde5d77f6aa38101aaf283f2e2476d065194a2b505f7a2020ee5e67de8d0aa3cf465f614720.jpg",
     "shows": {
-     "223128": {
-      "fmt": "2D",
-      "when": "12/10 17:30"
-     },
      "223131": {
       "fmt": "2D",
       "when": "13/10 20:50"
@@ -347,24 +315,9 @@
     "title": "NAZA",
     "url": "/scheda/naza/48682/3365/"
    },
-   "resident-evil-2026": {
-    "poster": "https://img.cine-vu.it/locandineSchede/%5B446%5D48060.jpg",
-    "shows": {
-     "223163": {
-      "fmt": "2D",
-      "when": "12/10 21:00"
-     }
-    },
-    "title": "RESIDENT EVIL [2026]",
-    "url": "/scheda/resident-evil-2026/48060/3365/"
-   },
    "the-social-il-prezzo-della-verita": {
     "poster": "https://img.cine-vu.it/locandineSchede/%5B446%5D48312.jpg",
     "shows": {
-     "223110": {
-      "fmt": "2D",
-      "when": "12/10 17:40"
-     },
      "223112": {
       "fmt": "2D",
       "when": "13/10 17:40"
@@ -388,14 +341,6 @@
    "verity": {
     "poster": "https://www.arcadiacinema.com/cdn/movies/4e63a95d87a77a438cecd49369d3b751befd8de5bd10687f6cad29440981889dd4e57e97d0718bc3bdf3a612a0112b131b848bc2bc6ef5a819e87bda3c75e096.jpg",
     "shows": {
-     "223196": {
-      "fmt": "2D",
-      "when": "12/10 17:10"
-     },
-     "223197": {
-      "fmt": "FILM IN INGLESE",
-      "when": "12/10 21:10"
-     },
      "223198": {
       "fmt": "2D",
       "when": "13/10 17:10"
@@ -643,10 +588,6 @@
      "131294": {
       "fmt": "2D",
       "when": "14/10 17:20"
-     },
-     "131299": {
-      "fmt": "2D",
-      "when": "12/10 17:20"
      }
     },
     "title": "DIGGER [2026]",
@@ -677,17 +618,6 @@
     },
     "title": "FATHERLAND",
     "url": "/scheda/fatherland/48881/3364/"
-   },
-   "heart-of-the-beast-nel-profondo-selvaggio": {
-    "poster": "https://www.arcadiacinema.com/cdn/movies/40f1fd35dfdd397f6f600f01d2dcda4941633ffac90fb7bacf0f81a1f3b70a349103842160b654b4af273baecd7518482540d32d2eecc526e8241017c2efb969.jpg",
-    "shows": {
-     "131290": {
-      "fmt": "2D",
-      "when": "12/10 20:40"
-     }
-    },
-    "title": "HEART OF THE BEAST - NEL PROFONDO SELVAGGIO",
-    "url": "/scheda/heart-of-the-beast-nel-profondo-selvaggio/48311/3364/"
    },
    "i-figli-della-scimmia": {
     "poster": "https://img.cine-vu.it/locandineSchede/%5B446%5D48577.jpg",
@@ -740,10 +670,6 @@
    "il-dottor-stranamore-ovvero-come-imparai-a-non-preoccuparmi-e-ad-amare-la-bomba": {
     "poster": "https://www.arcadiacinema.com/cdn/movies/2f1804b7d415eaca16fc6f0c8acc694ceeb23d419d4a025f90b70288ade4a2b3e20094a1af4deb0ec47d38388727cc9ced15d25e5d7c12b838fa32c715143584.jpg",
     "shows": {
-     "131014": {
-      "fmt": "4K",
-      "when": "12/10 20:45"
-     },
      "131015": {
       "fmt": "FILM IN INGLESE 4K",
       "when": "13/10 20:45"
@@ -755,10 +681,6 @@
    "lalbero-di-molto-lontano": {
     "poster": "https://img.cine-vu.it/locandineSchede/%5B446%5D48721.jpg",
     "shows": {
-     "131270": {
-      "fmt": "2D",
-      "when": "12/10 17:10"
-     },
      "131272": {
       "fmt": "2D",
       "when": "13/10 17:10"
@@ -774,10 +696,6 @@
    "lestranea": {
     "poster": "https://img.cine-vu.it/locandineSchede/%5B446%5D48593.jpg",
     "shows": {
-     "131308": {
-      "fmt": "2D",
-      "when": "12/10 20:30"
-     },
      "131310": {
       "fmt": "2D",
       "when": "13/10 20:30"
@@ -793,10 +711,6 @@
    "mammina": {
     "poster": "https://img.cine-vu.it/locandineSchede/%5B446%5D48720.jpg",
     "shows": {
-     "131271": {
-      "fmt": "2D",
-      "when": "12/10 21:10"
-     },
      "131273": {
       "fmt": "2D",
       "when": "13/10 21:10"
@@ -835,10 +749,6 @@
    "naza": {
     "poster": "https://www.arcadiacinema.com/cdn/movies/d3a32a04c4ab9961e173125abbc60a2196c1c327de16f4cf51880cde5d77f6aa38101aaf283f2e2476d065194a2b505f7a2020ee5e67de8d0aa3cf465f614720.jpg",
     "shows": {
-     "131331": {
-      "fmt": "2D",
-      "when": "12/10 17:30"
-     },
      "131332": {
       "fmt": "2D",
       "when": "13/10 17:30"
@@ -854,10 +764,6 @@
    "odissea-2026": {
     "poster": "https://www.arcadiacinema.com/cdn/movies/7efd1bf999801fe57d7f176c695e11be0d008f8fa45df4e1a7e126c74b9743029fec9749e4ae4fc306860754205442cb7c5b6fbcd3d6eb29d50efadd01192d00.jpg",
     "shows": {
-     "131011": {
-      "fmt": "70MM ENERGIA",
-      "when": "12/10 21:00"
-     },
      "131012": {
       "fmt": "70MM ENERGIA",
       "when": "13/10 17:00"
@@ -865,10 +771,6 @@
      "131013": {
       "fmt": "70MM ENERGIA",
       "when": "14/10 21:00"
-     },
-     "131172": {
-      "fmt": "70MM ENERGIA",
-      "when": "12/10 17:00"
      },
      "131173": {
       "fmt": "FILM IN INGLESE 70MM ENERGIA",
@@ -898,6 +800,14 @@
       "fmt": "70MM ENERGIA",
       "when": "17/10 21:00"
      },
+     "131385": {
+      "fmt": "70MM ENERGIA",
+      "when": "18/10 11:00"
+     },
+     "131386": {
+      "fmt": "70MM ENERGIA",
+      "when": "18/10 21:00"
+     },
      "131387": {
       "fmt": "70MM ENERGIA",
       "when": "18/10 17:00"
@@ -913,6 +823,14 @@
      "131402": {
       "fmt": "70MM ENERGIA",
       "when": "21/10 21:00"
+     },
+     "131421": {
+      "fmt": "70MM ENERGIA",
+      "when": "15/10 21:00"
+     },
+     "131422": {
+      "fmt": "70MM ENERGIA",
+      "when": "16/10 17:00"
      }
     },
     "title": "ODISSEA [2026]",
@@ -977,10 +895,6 @@
    "the-social-il-prezzo-della-verita": {
     "poster": "https://img.cine-vu.it/locandineSchede/%5B446%5D48312.jpg",
     "shows": {
-     "131309": {
-      "fmt": "2D",
-      "when": "12/10 17:25"
-     },
      "131311": {
       "fmt": "2D",
       "when": "13/10 17:25"
