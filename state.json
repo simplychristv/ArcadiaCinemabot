@@ -704,6 +704,39 @@
     "title": "I FIGLI DELLA SCIMMIA",
     "url": "/scheda/i-figli-della-scimmia/48577/3364/"
    },
+   "il-cinema-e-il-suo-linguaggio-1": {
+    "poster": "https://www.arcadiacinema.com/cdn/movies/ce51ba2491c1419bd090c57831aadcd4eeb84ac3af2cf3a78980e1fccbc09b5ade1ae69a0d9969e7caa37dd7f9b21479521ea7b77f4a449ef9cbab0033606bef.jpg",
+    "shows": {
+     "131375": {
+      "fmt": "2D",
+      "when": "26/10 20:30"
+     }
+    },
+    "title": "IL CINEMA E IL SUO LINGUAGGIO 1",
+    "url": "/scheda/il-cinema-e-il-suo-linguaggio-1/48902/3364/"
+   },
+   "il-cinema-e-il-suo-linguaggio-2": {
+    "poster": "https://www.arcadiacinema.com/cdn/movies/69d16012854f1506cc64ae672d611295dfd04c5ca3a785ab4d3944cb4b08acf45f9cd4c6d8e71a6f78689a4b0fe8fc9a09e6099319bdae2c6bf07f02edd1fda6.jpg",
+    "shows": {
+     "131376": {
+      "fmt": "2D",
+      "when": "23/11 20:30"
+     }
+    },
+    "title": "IL CINEMA E IL SUO LINGUAGGIO 2",
+    "url": "/scheda/il-cinema-e-il-suo-linguaggio-2/48903/3364/"
+   },
+   "il-cinema-e-il-suo-linguaggio-3": {
+    "poster": "https://www.arcadiacinema.com/cdn/movies/3ca4e39858fb369e1d8b3800f831c18f80c1cfc3e062dc526b62b19f6f38c4090e2bcdf24854f5815936bb742011b4ec9f16168fb193bf014e0359f08002d7e2.jpg",
+    "shows": {
+     "131377": {
+      "fmt": "2D",
+      "when": "15/02 20:30"
+     }
+    },
+    "title": "IL CINEMA E IL SUO LINGUAGGIO 3",
+    "url": "/scheda/il-cinema-e-il-suo-linguaggio-3/48904/3364/"
+   },
    "il-dottor-stranamore-ovvero-come-imparai-a-non-preoccuparmi-e-ad-amare-la-bomba": {
     "poster": "https://www.arcadiacinema.com/cdn/movies/2f1804b7d415eaca16fc6f0c8acc694ceeb23d419d4a025f90b70288ade4a2b3e20094a1af4deb0ec47d38388727cc9ced15d25e5d7c12b838fa32c715143584.jpg",
     "shows": {
