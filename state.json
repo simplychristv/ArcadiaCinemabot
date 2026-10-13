@@ -578,6 +578,17 @@
     "title": "AVENGERS - DOOMSDAY",
     "url": "https://www.arcadiacinema.com/scheda/avengers-doomsday/48784/"
    },
+   "carlo-acutis-il-giovane-santo": {
+    "poster": "https://img.cine-vu.it/locandineSchede/%5B446%5D48707.jpg",
+    "shows": {
+     "131482": {
+      "fmt": "2D",
+      "when": "17/10 15:50"
+     }
+    },
+    "title": "CARLO ACUTIS. IL GIOVANE SANTO",
+    "url": "/scheda/carlo-acutis-il-giovane-santo/48707/3364/"
+   },
    "digger-2026": {
     "poster": "https://www.arcadiacinema.com/cdn/movies/eec4df2672c82ce0bbacb6c95f549be5a8c53aebc5a4c8c160fe732c6c69776f972f2a1af4593b9f30b4cd5bee0c9fd3e6bae69eaa2ff31aeb9c98a537871b1c.jpg",
     "shows": {
@@ -588,6 +599,18 @@
      "131294": {
       "fmt": "2D",
       "when": "14/10 17:20"
+     },
+     "131446": {
+      "fmt": "2D",
+      "when": "16/10 17:30"
+     },
+     "131449": {
+      "fmt": "2D",
+      "when": "17/10 17:30"
+     },
+     "131451": {
+      "fmt": "FILM IN INGLESE",
+      "when": "18/10 11:10"
      }
     },
     "title": "DIGGER [2026]",
@@ -703,10 +726,49 @@
      "131312": {
       "fmt": "2D",
       "when": "14/10 20:30"
+     },
+     "131438": {
+      "fmt": "2D",
+      "when": "16/10 17:35"
+     },
+     "131442": {
+      "fmt": "2D",
+      "when": "15/10 17:35"
+     },
+     "131450": {
+      "fmt": "2D",
+      "when": "17/10 15:10"
+     },
+     "131455": {
+      "fmt": "2D",
+      "when": "19/10 17:30"
+     },
+     "131457": {
+      "fmt": "2D",
+      "when": "20/10 20:40"
+     },
+     "131459": {
+      "fmt": "2D",
+      "when": "21/10 17:30"
      }
     },
     "title": "L'ESTRANEA",
     "url": "/scheda/lestranea/48593/3364/"
+   },
+   "lisola-dei-ricordi-2026": {
+    "poster": "https://img.cine-vu.it/locandineSchede/%5B446%5D48448.jpg",
+    "shows": {
+     "131440": {
+      "fmt": "2D",
+      "when": "17/10 15:20"
+     },
+     "131452": {
+      "fmt": "2D",
+      "when": "18/10 15:20"
+     }
+    },
+    "title": "L'ISOLA DEI RICORDI [2026]",
+    "url": "/scheda/lisola-dei-ricordi-2026/48448/3364/"
    },
    "mammina": {
     "poster": "https://img.cine-vu.it/locandineSchede/%5B446%5D48720.jpg",
@@ -718,6 +780,46 @@
      "131275": {
       "fmt": "2D",
       "when": "14/10 21:10"
+     },
+     "131443": {
+      "fmt": "2D",
+      "when": "15/10 20:40"
+     },
+     "131444": {
+      "fmt": "2D",
+      "when": "16/10 20:10"
+     },
+     "131445": {
+      "fmt": "2D",
+      "when": "16/10 22:30"
+     },
+     "131447": {
+      "fmt": "2D",
+      "when": "17/10 22:30"
+     },
+     "131448": {
+      "fmt": "2D",
+      "when": "17/10 20:10"
+     },
+     "131453": {
+      "fmt": "2D",
+      "when": "18/10 17:50"
+     },
+     "131454": {
+      "fmt": "2D",
+      "when": "18/10 20:40"
+     },
+     "131456": {
+      "fmt": "2D",
+      "when": "19/10 20:40"
+     },
+     "131458": {
+      "fmt": "2D",
+      "when": "20/10 17:30"
+     },
+     "131460": {
+      "fmt": "2D",
+      "when": "21/10 20:40"
      }
     },
     "title": "MAMMINA",
@@ -831,6 +933,18 @@
      "131422": {
       "fmt": "70MM ENERGIA",
       "when": "16/10 17:00"
+     },
+     "131461": {
+      "fmt": "70MM ENERGIA",
+      "when": "19/10 17:00"
+     },
+     "131462": {
+      "fmt": "70MM ENERGIA",
+      "when": "20/10 17:00"
+     },
+     "131463": {
+      "fmt": "70MM ENERGIA",
+      "when": "21/10 17:00"
      }
     },
     "title": "ODISSEA [2026]",
@@ -877,6 +991,85 @@
     "title": "SERPENTI",
     "url": "/scheda/serpenti/48578/3364/"
    },
+   "street-fighter": {
+    "poster": "https://img.cine-vu.it/locandineSchede/%5B446%5D48646.jpg",
+    "shows": {
+     "131464": {
+      "fmt": "2D",
+      "when": "15/10 17:25"
+     },
+     "131465": {
+      "fmt": "2D",
+      "when": "15/10 21:20"
+     },
+     "131466": {
+      "fmt": "2D",
+      "when": "16/10 17:25"
+     },
+     "131467": {
+      "fmt": "2D",
+      "when": "16/10 20:15"
+     },
+     "131468": {
+      "fmt": "2D",
+      "when": "17/10 20:15"
+     },
+     "131469": {
+      "fmt": "2D",
+      "when": "17/10 22:40"
+     },
+     "131470": {
+      "fmt": "2D",
+      "when": "18/10 17:40"
+     },
+     "131471": {
+      "fmt": "2D",
+      "when": "18/10 21:20"
+     },
+     "131472": {
+      "fmt": "2D",
+      "when": "19/10 17:25"
+     },
+     "131473": {
+      "fmt": "2D",
+      "when": "19/10 21:20"
+     },
+     "131474": {
+      "fmt": "2D",
+      "when": "20/10 17:25"
+     },
+     "131475": {
+      "fmt": "2D",
+      "when": "20/10 21:20"
+     },
+     "131476": {
+      "fmt": "2D",
+      "when": "21/10 17:25"
+     },
+     "131477": {
+      "fmt": "2D",
+      "when": "21/10 21:20"
+     },
+     "131478": {
+      "fmt": "2D",
+      "when": "22/10 17:25"
+     },
+     "131479": {
+      "fmt": "2D",
+      "when": "22/10 21:20"
+     },
+     "131480": {
+      "fmt": "2D",
+      "when": "16/10 22:40"
+     },
+     "131481": {
+      "fmt": "2D",
+      "when": "17/10 17:40"
+     }
+    },
+    "title": "STREET FIGHTER",
+    "url": "/scheda/street-fighter/48646/3364/"
+   },
    "the-echo-chamber": {
     "poster": "https://img.cine-vu.it/locandineSchede/%5B446%5D48453.jpg",
     "shows": {
@@ -917,10 +1110,81 @@
      "131293": {
       "fmt": "2D",
       "when": "14/10 20:40"
+     },
+     "131433": {
+      "fmt": "2D",
+      "when": "19/10 20:30"
      }
     },
     "title": "VERITY",
     "url": "/scheda/verity/48063/3364/"
+   },
+   "whalefall-nella-balena": {
+    "poster": "https://img.cine-vu.it/locandineSchede/%5B446%5D48575.jpg",
+    "shows": {
+     "131424": {
+      "fmt": "2D",
+      "when": "15/10 17:35"
+     },
+     "131425": {
+      "fmt": "2D",
+      "when": "15/10 21:15"
+     },
+     "131426": {
+      "fmt": "2D",
+      "when": "16/10 20:20"
+     },
+     "131427": {
+      "fmt": "2D",
+      "when": "16/10 22:25"
+     },
+     "131428": {
+      "fmt": "2D",
+      "when": "17/10 20:20"
+     },
+     "131429": {
+      "fmt": "2D",
+      "when": "17/10 22:25"
+     },
+     "131430": {
+      "fmt": "2D",
+      "when": "18/10 17:50"
+     },
+     "131431": {
+      "fmt": "2D",
+      "when": "18/10 21:15"
+     },
+     "131432": {
+      "fmt": "2D",
+      "when": "19/10 17:35"
+     },
+     "131434": {
+      "fmt": "2D",
+      "when": "20/10 17:35"
+     },
+     "131435": {
+      "fmt": "2D",
+      "when": "20/10 21:15"
+     },
+     "131436": {
+      "fmt": "2D",
+      "when": "21/10 17:35"
+     },
+     "131437": {
+      "fmt": "2D",
+      "when": "21/10 21:15"
+     },
+     "131439": {
+      "fmt": "2D",
+      "when": "17/10 17:50"
+     },
+     "131441": {
+      "fmt": "2D",
+      "when": "18/10 14:50"
+     }
+    },
+    "title": "WHALEFALL - NELLA BALENA",
+    "url": "/scheda/whalefall-nella-balena/48575/3364/"
    },
    "wild-horse-nine": {
     "poster": "https://img.cine-vu.it/locandineSchede/%5B446%5D48315.jpg",
