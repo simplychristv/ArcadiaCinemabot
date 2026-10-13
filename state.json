@@ -182,10 +182,41 @@
      "222933": {
       "fmt": "2D",
       "when": "16/10 20:00"
+     },
+     "223208": {
+      "fmt": "2D",
+      "when": "17/10 17:30"
+     },
+     "223209": {
+      "fmt": "2D",
+      "when": "18/10 15:20"
+     },
+     "223215": {
+      "fmt": "2D",
+      "when": "20/10 20:00"
+     },
+     "223216": {
+      "fmt": "2D",
+      "when": "21/10 17:30"
+     },
+     "223277": {
+      "fmt": "2D",
+      "when": "17/10 14:50"
      }
     },
     "title": "CARLO ACUTIS. IL GIOVANE SANTO",
     "url": "/scheda/carlo-acutis-il-giovane-santo/48707/3365/"
+   },
+   "clayface": {
+    "poster": "https://img.cine-vu.it/locandineSchede/%5B446%5D48064.jpg",
+    "shows": {
+     "223217": {
+      "fmt": "2D",
+      "when": "21/10 21:15"
+     }
+    },
+    "title": "CLAYFACE",
+    "url": "/scheda/clayface/48064/3365/"
    },
    "digger-2026": {
     "poster": "https://www.arcadiacinema.com/cdn/movies/eec4df2672c82ce0bbacb6c95f549be5a8c53aebc5a4c8c160fe732c6c69776f972f2a1af4593b9f30b4cd5bee0c9fd3e6bae69eaa2ff31aeb9c98a537871b1c.jpg",
@@ -200,7 +231,7 @@
      }
     },
     "title": "DIGGER [2026]",
-    "url": "https://arcadiacinema.com/scheda/digger-2026/48062/"
+    "url": "/scheda/digger-2026/48062/3365/"
    },
    "dune-parte-tre": {
     "poster": "https://www.arcadiacinema.com/cdn/movies/6e6387350189c9dc215bde84e15315afcedfd55eb1dde25f10b0070436f76012668a68a3f19ea2802b673e47df1c9ee93e2407cffca1a8fd22150b35c713f3ac.jpg",
@@ -213,16 +244,130 @@
     "title": "DUNE PARTE TRE",
     "url": "https://arcadiacinema.com/scheda/dune-parte-tre/48067/"
    },
+   "frankie-e-le-creature-dimenticate": {
+    "poster": "https://img.cine-vu.it/locandineSchede/%5B446%5D46604.jpg",
+    "shows": {
+     "223218": {
+      "fmt": "2D",
+      "when": "15/10 17:40"
+     },
+     "223220": {
+      "fmt": "2D",
+      "when": "16/10 17:40"
+     },
+     "223223": {
+      "fmt": "2D",
+      "when": "17/10 15:30"
+     },
+     "223227": {
+      "fmt": "2D",
+      "when": "18/10 15:30"
+     },
+     "223230": {
+      "fmt": "2D",
+      "when": "19/10 17:40"
+     },
+     "223232": {
+      "fmt": "2D",
+      "when": "20/10 17:40"
+     },
+     "223234": {
+      "fmt": "2D",
+      "when": "21/10 17:40"
+     }
+    },
+    "title": "FRANKIE E LE CREATURE DIMENTICATE",
+    "url": "/scheda/frankie-e-le-creature-dimenticate/46604/3365/"
+   },
    "heart-of-the-beast-nel-profondo-selvaggio": {
     "poster": "https://www.arcadiacinema.com/cdn/movies/40f1fd35dfdd397f6f600f01d2dcda4941633ffac90fb7bacf0f81a1f3b70a349103842160b654b4af273baecd7518482540d32d2eecc526e8241017c2efb969.jpg",
     "shows": {
      "223165": {
       "fmt": "2D",
       "when": "13/10 21:00"
+     },
+     "223202": {
+      "fmt": "2D",
+      "when": "15/10 17:30"
+     },
+     "223204": {
+      "fmt": "2D",
+      "when": "16/10 22:35"
+     },
+     "223207": {
+      "fmt": "2D",
+      "when": "17/10 22:35"
+     },
+     "223210": {
+      "fmt": "2D",
+      "when": "18/10 17:30"
+     },
+     "223213": {
+      "fmt": "2D",
+      "when": "19/10 20:40"
+     },
+     "223214": {
+      "fmt": "2D",
+      "when": "20/10 17:30"
+     },
+     "223252": {
+      "fmt": "2D",
+      "when": "21/10 18:00"
      }
     },
     "title": "HEART OF THE BEAST - NEL PROFONDO SELVAGGIO",
     "url": "/scheda/heart-of-the-beast-nel-profondo-selvaggio/48311/3365/"
+   },
+   "je-so-pazzo": {
+    "poster": "https://img.cine-vu.it/locandineSchede/%5B446%5D48645.jpg",
+    "shows": {
+     "223205": {
+      "fmt": "2D",
+      "when": "17/10 15:10"
+     },
+     "223206": {
+      "fmt": "2D",
+      "when": "17/10 20:00"
+     },
+     "223211": {
+      "fmt": "2D",
+      "when": "18/10 20:40"
+     },
+     "223256": {
+      "fmt": "2D",
+      "when": "16/10 17:50"
+     },
+     "223273": {
+      "fmt": "2D",
+      "when": "15/10 20:50"
+     },
+     "223275": {
+      "fmt": "2D",
+      "when": "16/10 19:50"
+     },
+     "223285": {
+      "fmt": "2D",
+      "when": "19/10 20:50"
+     },
+     "223287": {
+      "fmt": "2D",
+      "when": "20/10 20:50"
+     },
+     "223289": {
+      "fmt": "2D",
+      "when": "21/10 20:50"
+     },
+     "223296": {
+      "fmt": "2D",
+      "when": "17/10 17:25"
+     },
+     "223300": {
+      "fmt": "2D",
+      "when": "18/10 17:25"
+     }
+    },
+    "title": "JE SÒ PAZZO",
+    "url": "/scheda/je-so-pazzo/48645/3365/"
    },
    "lalbero-di-molto-lontano": {
     "poster": "https://img.cine-vu.it/locandineSchede/%5B446%5D48721.jpg",
@@ -257,6 +402,66 @@
      "223151": {
       "fmt": "2D",
       "when": "14/10 20:30"
+     },
+     "223236": {
+      "fmt": "2D",
+      "when": "15/10 18:00"
+     },
+     "223237": {
+      "fmt": "2D",
+      "when": "15/10 21:00"
+     },
+     "223238": {
+      "fmt": "2D",
+      "when": "16/10 18:00"
+     },
+     "223239": {
+      "fmt": "2D",
+      "when": "16/10 21:00"
+     },
+     "223240": {
+      "fmt": "2D",
+      "when": "17/10 14:30"
+     },
+     "223242": {
+      "fmt": "2D",
+      "when": "17/10 18:50"
+     },
+     "223243": {
+      "fmt": "2D",
+      "when": "17/10 21:30"
+     },
+     "223244": {
+      "fmt": "2D",
+      "when": "18/10 14:30"
+     },
+     "223246": {
+      "fmt": "2D",
+      "when": "18/10 18:50"
+     },
+     "223247": {
+      "fmt": "2D",
+      "when": "18/10 21:20"
+     },
+     "223248": {
+      "fmt": "2D",
+      "when": "19/10 18:00"
+     },
+     "223249": {
+      "fmt": "2D",
+      "when": "19/10 21:00"
+     },
+     "223250": {
+      "fmt": "2D",
+      "when": "20/10 18:00"
+     },
+     "223251": {
+      "fmt": "2D",
+      "when": "20/10 21:00"
+     },
+     "223253": {
+      "fmt": "2D",
+      "when": "21/10 21:00"
      }
     },
     "title": "L'ESTRANEA",
@@ -280,6 +485,50 @@
      "223185": {
       "fmt": "2D",
       "when": "14/10 21:20"
+     },
+     "223291": {
+      "fmt": "2D",
+      "when": "15/10 21:30"
+     },
+     "223293": {
+      "fmt": "2D",
+      "when": "16/10 20:20"
+     },
+     "223294": {
+      "fmt": "2D",
+      "when": "16/10 22:35"
+     },
+     "223295": {
+      "fmt": "2D",
+      "when": "17/10 15:20"
+     },
+     "223297": {
+      "fmt": "2D",
+      "when": "17/10 20:20"
+     },
+     "223298": {
+      "fmt": "2D",
+      "when": "17/10 22:35"
+     },
+     "223299": {
+      "fmt": "2D",
+      "when": "18/10 15:40"
+     },
+     "223301": {
+      "fmt": "2D",
+      "when": "18/10 20:50"
+     },
+     "223303": {
+      "fmt": "2D",
+      "when": "19/10 21:30"
+     },
+     "223305": {
+      "fmt": "2D",
+      "when": "20/10 21:30"
+     },
+     "223307": {
+      "fmt": "2D",
+      "when": "21/10 21:30"
      }
     },
     "title": "MAMMINA",
@@ -310,10 +559,148 @@
      "223167": {
       "fmt": "2D",
       "when": "14/10 21:00"
+     },
+     "223241": {
+      "fmt": "2D",
+      "when": "17/10 17:00"
+     },
+     "223245": {
+      "fmt": "2D",
+      "when": "18/10 17:00"
+     },
+     "223272": {
+      "fmt": "2D",
+      "when": "15/10 17:10"
+     },
+     "223292": {
+      "fmt": "2D",
+      "when": "16/10 17:45"
+     },
+     "223302": {
+      "fmt": "2D",
+      "when": "19/10 17:10"
      }
     },
     "title": "NAZA",
     "url": "/scheda/naza/48682/3365/"
+   },
+   "se-ami-qualcuno-dillo": {
+    "poster": "https://img.cine-vu.it/locandineSchede/%5B446%5D48722.jpg",
+    "shows": {
+     "223274": {
+      "fmt": "2D",
+      "when": "16/10 17:20"
+     },
+     "223276": {
+      "fmt": "2D",
+      "when": "16/10 22:30"
+     },
+     "223278": {
+      "fmt": "2D",
+      "when": "17/10 17:20"
+     },
+     "223279": {
+      "fmt": "2D",
+      "when": "17/10 19:50"
+     },
+     "223281": {
+      "fmt": "2D",
+      "when": "18/10 14:50"
+     },
+     "223282": {
+      "fmt": "2D",
+      "when": "18/10 17:20"
+     },
+     "223284": {
+      "fmt": "2D",
+      "when": "19/10 17:20"
+     },
+     "223304": {
+      "fmt": "2D",
+      "when": "20/10 17:10"
+     },
+     "223306": {
+      "fmt": "2D",
+      "when": "21/10 17:10"
+     }
+    },
+    "title": "SE AMI QUALCUNO DILLO",
+    "url": "/scheda/se-ami-qualcuno-dillo/48722/3365/"
+   },
+   "street-fighter": {
+    "poster": "https://img.cine-vu.it/locandineSchede/%5B446%5D48646.jpg",
+    "shows": {
+     "223254": {
+      "fmt": "2D",
+      "when": "15/10 17:50"
+     },
+     "223255": {
+      "fmt": "2D",
+      "when": "15/10 21:10"
+     },
+     "223257": {
+      "fmt": "2D",
+      "when": "16/10 20:10"
+     },
+     "223258": {
+      "fmt": "2D",
+      "when": "16/10 22:50"
+     },
+     "223259": {
+      "fmt": "2D",
+      "when": "17/10 14:40"
+     },
+     "223260": {
+      "fmt": "2D",
+      "when": "17/10 17:10"
+     },
+     "223261": {
+      "fmt": "2D",
+      "when": "17/10 20:10"
+     },
+     "223262": {
+      "fmt": "2D",
+      "when": "17/10 22:50"
+     },
+     "223263": {
+      "fmt": "2D",
+      "when": "18/10 15:10"
+     },
+     "223264": {
+      "fmt": "2D",
+      "when": "18/10 17:50"
+     },
+     "223265": {
+      "fmt": "2D",
+      "when": "18/10 21:00"
+     },
+     "223266": {
+      "fmt": "2D",
+      "when": "19/10 17:50"
+     },
+     "223267": {
+      "fmt": "2D",
+      "when": "19/10 21:10"
+     },
+     "223268": {
+      "fmt": "2D",
+      "when": "20/10 17:50"
+     },
+     "223269": {
+      "fmt": "2D",
+      "when": "20/10 21:10"
+     },
+     "223270": {
+      "fmt": "2D",
+      "when": "21/10 17:50"
+     },
+     "223271": {
+      "fmt": "2D",
+      "when": "21/10 21:10"
+     }
+    },
+    "title": "STREET FIGHTER",
+    "url": "/scheda/street-fighter/48646/3365/"
    },
    "the-social-il-prezzo-della-verita": {
     "poster": "https://img.cine-vu.it/locandineSchede/%5B446%5D48312.jpg",
@@ -356,10 +743,89 @@
      "223201": {
       "fmt": "2D",
       "when": "14/10 21:10"
+     },
+     "223203": {
+      "fmt": "2D",
+      "when": "16/10 17:30"
+     },
+     "223212": {
+      "fmt": "2D",
+      "when": "19/10 17:30"
+     },
+     "223280": {
+      "fmt": "2D",
+      "when": "17/10 22:30"
+     },
+     "223283": {
+      "fmt": "2D",
+      "when": "18/10 20:30"
+     },
+     "223286": {
+      "fmt": "2D",
+      "when": "20/10 17:20"
+     },
+     "223288": {
+      "fmt": "2D",
+      "when": "21/10 17:20"
+     },
+     "223290": {
+      "fmt": "2D",
+      "when": "15/10 17:20"
      }
     },
     "title": "VERITY",
     "url": "/scheda/verity/48063/3365/"
+   },
+   "whalefall-nella-balena": {
+    "poster": "https://img.cine-vu.it/locandineSchede/%5B446%5D48575.jpg",
+    "shows": {
+     "223219": {
+      "fmt": "2D",
+      "when": "15/10 21:20"
+     },
+     "223221": {
+      "fmt": "2D",
+      "when": "16/10 20:15"
+     },
+     "223222": {
+      "fmt": "2D",
+      "when": "16/10 22:40"
+     },
+     "223224": {
+      "fmt": "2D",
+      "when": "17/10 17:40"
+     },
+     "223225": {
+      "fmt": "2D",
+      "when": "17/10 20:15"
+     },
+     "223226": {
+      "fmt": "2D",
+      "when": "17/10 22:40"
+     },
+     "223228": {
+      "fmt": "2D",
+      "when": "18/10 17:40"
+     },
+     "223229": {
+      "fmt": "2D",
+      "when": "18/10 21:10"
+     },
+     "223231": {
+      "fmt": "FILM IN INGLESE",
+      "when": "19/10 21:20"
+     },
+     "223233": {
+      "fmt": "2D",
+      "when": "20/10 21:20"
+     },
+     "223235": {
+      "fmt": "2D",
+      "when": "21/10 21:20"
+     }
+    },
+    "title": "WHALEFALL - NELLA BALENA",
+    "url": "/scheda/whalefall-nella-balena/48575/3365/"
    }
   },
   "melzo": {
@@ -584,10 +1050,29 @@
      "131482": {
       "fmt": "2D",
       "when": "17/10 15:50"
+     },
+     "131483": {
+      "fmt": "2D",
+      "when": "18/10 15:50"
+     },
+     "131484": {
+      "fmt": "2D",
+      "when": "15/10 17:20"
      }
     },
     "title": "CARLO ACUTIS. IL GIOVANE SANTO",
     "url": "/scheda/carlo-acutis-il-giovane-santo/48707/3364/"
+   },
+   "clayface": {
+    "poster": "https://img.cine-vu.it/locandineSchede/%5B446%5D48064.jpg",
+    "shows": {
+     "131477": {
+      "fmt": "2D",
+      "when": "21/10 20:45"
+     }
+    },
+    "title": "CLAYFACE",
+    "url": "/scheda/clayface/48064/3364/"
    },
    "digger-2026": {
     "poster": "https://www.arcadiacinema.com/cdn/movies/eec4df2672c82ce0bbacb6c95f549be5a8c53aebc5a4c8c160fe732c6c69776f972f2a1af4593b9f30b4cd5bee0c9fd3e6bae69eaa2ff31aeb9c98a537871b1c.jpg",
@@ -614,7 +1099,7 @@
      }
     },
     "title": "DIGGER [2026]",
-    "url": "https://arcadiacinema.com/scheda/digger-2026/48062/"
+    "url": "/scheda/digger-2026/48062/3364/"
    },
    "dune-parte-tre": {
     "poster": "https://www.arcadiacinema.com/cdn/movies/a0d30d29ccbdb1ecd67c31e8b6bd1863976ccf60df5664f7667f6a2044e86bbbffe72fb3257b5fcde1d0501e07cce6dc8a8e7125619173af9e9bf85740b535b2.jpg",
@@ -707,10 +1192,6 @@
      "131272": {
       "fmt": "2D",
       "when": "13/10 17:10"
-     },
-     "131274": {
-      "fmt": "2D",
-      "when": "14/10 17:10"
      }
     },
     "title": "L'ALBERO DI MOLTO LONTANO",
@@ -750,6 +1231,26 @@
      "131459": {
       "fmt": "2D",
       "when": "21/10 17:30"
+     },
+     "131487": {
+      "fmt": "2D",
+      "when": "16/10 20:00"
+     },
+     "131491": {
+      "fmt": "2D",
+      "when": "17/10 17:20"
+     },
+     "131492": {
+      "fmt": "2D",
+      "when": "17/10 20:00"
+     },
+     "131493": {
+      "fmt": "2D",
+      "when": "18/10 15:10"
+     },
+     "131494": {
+      "fmt": "2D",
+      "when": "18/10 18:00"
      }
     },
     "title": "L'ESTRANEA",
@@ -956,6 +1457,54 @@
      "130921": {
       "fmt": "2D",
       "when": "14/10 20:45"
+     },
+     "131423": {
+      "fmt": "ENERGIA",
+      "when": "18/10 14:30"
+     },
+     "131436": {
+      "fmt": "2D",
+      "when": "21/10 17:15"
+     },
+     "131485": {
+      "fmt": "2D",
+      "when": "15/10 20:30"
+     },
+     "131486": {
+      "fmt": "2D",
+      "when": "16/10 17:20"
+     },
+     "131488": {
+      "fmt": "2D",
+      "when": "16/10 22:20"
+     },
+     "131489": {
+      "fmt": "2D",
+      "when": "17/10 15:00"
+     },
+     "131490": {
+      "fmt": "2D",
+      "when": "17/10 22:20"
+     },
+     "131495": {
+      "fmt": "2D",
+      "when": "18/10 20:30"
+     },
+     "131496": {
+      "fmt": "2D",
+      "when": "19/10 17:20"
+     },
+     "131498": {
+      "fmt": "2D",
+      "when": "20/10 17:20"
+     },
+     "131499": {
+      "fmt": "2D",
+      "when": "20/10 20:30"
+     },
+     "131501": {
+      "fmt": "2D",
+      "when": "18/10 11:15"
      }
     },
     "title": "PRIMETIME",
@@ -1038,17 +1587,9 @@
       "fmt": "2D",
       "when": "20/10 17:25"
      },
-     "131475": {
-      "fmt": "2D",
-      "when": "20/10 21:20"
-     },
      "131476": {
       "fmt": "2D",
       "when": "21/10 17:25"
-     },
-     "131477": {
-      "fmt": "2D",
-      "when": "21/10 21:20"
      },
      "131478": {
       "fmt": "2D",
@@ -1065,6 +1606,10 @@
      "131481": {
       "fmt": "2D",
       "when": "17/10 17:40"
+     },
+     "131500": {
+      "fmt": "2D",
+      "when": "18/10 11:20"
      }
     },
     "title": "STREET FIGHTER",
@@ -1099,6 +1644,21 @@
     },
     "title": "THE SOCIAL - IL PREZZO DELLA VERITÀ",
     "url": "/scheda/the-social-il-prezzo-della-verita/48312/3364/"
+   },
+   "trainspotting": {
+    "poster": "https://www.arcadiacinema.com/cdn/movies/dc6e1a7722372480581b95ce6a2fab129c0d6a690e576885768fe1ca9381d17ab897ad130b47218b259d0acd44c042b6ae9a9eea12ec73b120956120a588e1ad.jpg",
+    "shows": {
+     "131475": {
+      "fmt": "2D",
+      "when": "20/10 20:45"
+     },
+     "131497": {
+      "fmt": "2D",
+      "when": "19/10 20:45"
+     }
+    },
+    "title": "TRAINSPOTTING",
+    "url": "/scheda/trainspotting/48835/3364/"
    },
    "verity": {
     "poster": "https://www.arcadiacinema.com/cdn/movies/4e63a95d87a77a438cecd49369d3b751befd8de5bd10687f6cad29440981889dd4e57e97d0718bc3bdf3a612a0112b131b848bc2bc6ef5a819e87bda3c75e096.jpg",
@@ -1165,10 +1725,6 @@
      "131435": {
       "fmt": "2D",
       "when": "20/10 21:15"
-     },
-     "131436": {
-      "fmt": "2D",
-      "when": "21/10 17:35"
      },
      "131437": {
       "fmt": "2D",
